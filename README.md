@@ -66,7 +66,6 @@ To use the Bot type the following commands in Terminal:
 ```
 git clone https://github.com/tuhin1729/Bot.git
 cd Bot
-pip install -r requirements.txt
 python Bot.py
 ```
 
