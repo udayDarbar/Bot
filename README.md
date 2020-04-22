@@ -17,7 +17,6 @@
 ## Note:
 
 - The script requires working network connection to work.
-- This Entire Process Is Divided Into Two Parts. Means You have to enter all credentials 2 times.
 - The script requires Geckodriver.
 - Good For CPV/CPM Ads.(Only if it can't identify the bot.)
 - Good For YouTube View Increaser.(Only if it can't be identified.)
