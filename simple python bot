@@ -1,0 +1,8 @@
+import webbrowser , time
+url = input("enter url : ")
+d = input("enter time duration : ")
+print("plese enter amout of view on base of how much teb  youer computer can open  at a time")
+n = input("hoew many view do you want")
+for i in range(int(n)):
+    webbrowser.open_new(url)
+    time.sleep(int(d))
